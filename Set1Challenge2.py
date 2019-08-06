@@ -31,4 +31,4 @@ unhex2 = hex2bin("686974207468652062756c6c277320657965")
 xored = xor(unhex, unhex2)
 
 final = num2hex(xored)
-print(final)
+#print(final)
